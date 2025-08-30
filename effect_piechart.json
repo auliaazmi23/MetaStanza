@@ -1,0 +1,26 @@
+[
+  {
+    "category": "likely_pathogenic",
+    "count": "45",
+    "group": "likely_pathogenic",
+    "color": "#B5184F"
+  },
+  {
+    "category": "likely_benign",
+    "count": "107",
+    "group": "likely_benign",
+    "color": "#519872"
+  },
+  {
+    "category": "unknown",
+    "count": "35",
+    "group": "unknown",
+    "color": "#888888"
+  },
+  {
+    "category": "ambiguous",
+    "count": "24",
+    "group": "ambiguous",
+    "color": "#FFB347"
+  }
+]

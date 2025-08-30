@@ -1,0 +1,485 @@
+[
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "196"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "42"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "74"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "37"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "105"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "21"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "114"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "42"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "8"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "8"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "44"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "13"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "75"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "9"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "29"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "104"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "25"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "12"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "105"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "27"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "10"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "63"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "24"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "5"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "108"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "39"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "14"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "32"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "84"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "9"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "182"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "54"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "19"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "13"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "43"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "104"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "21"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "9"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "6"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "67"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "15"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "23"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "13"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "72"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "22"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "53"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "142"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "17"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "170"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "74"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "27"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "7"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "29"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "4"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "272"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "113"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "42"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "80"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "26"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "17"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "10"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "16"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "3"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "68"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "18"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "30"
+  },
+  {
+    "category": "likely_benign",
+    "category_order": 1,
+    "chromosome": "x",
+    "chromosome_order": 22,
+    "count": "48"
+  },
+  {
+    "category": "likely_pathogenic",
+    "category_order": 0,
+    "chromosome": "x",
+    "chromosome_order": 22,
+    "count": "22"
+  },
+  {
+    "category": "ambiguous",
+    "category_order": 2,
+    "chromosome": "x",
+    "chromosome_order": 22,
+    "count": "9"
+  }
+]

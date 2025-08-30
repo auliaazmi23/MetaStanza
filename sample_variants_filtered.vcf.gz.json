@@ -1,0 +1,525 @@
+{
+  "nodes": [
+    {
+      "id": "chr1:26697277_A>C",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.6238,
+      "tipid": "0.6238 c.874A>C"
+    },
+    {
+      "id": "ENST00000324856.13",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.6238
+    },
+    {
+      "id": "O14497",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.6238,
+      "tipid": "ARID1A"
+    },
+    {
+      "id": "ARID1A",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.6238
+    },
+    {
+      "id": "chr1:26697283_A>C",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.8129,
+      "tipid": "0.8129 c.880A>C"
+    },
+    {
+      "id": "chr1:26697287_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9896,
+      "tipid": "0.9896 c.884T>G"
+    },
+    {
+      "id": "chr2:208248484_C>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9805,
+      "tipid": "0.9805 c.299G>A"
+    },
+    {
+      "id": "ENST00000345146.7",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.9805
+    },
+    {
+      "id": "O75874",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.9805,
+      "tipid": "IDH1"
+    },
+    {
+      "id": "IDH1",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.9805
+    },
+    {
+      "id": "chr3:41233385_C>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9984,
+      "tipid": "0.9984 c.1126C>T"
+    },
+    {
+      "id": "ENST00000349496.11",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.9984
+    },
+    {
+      "id": "P35222",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.9984,
+      "tipid": "CTNNB1"
+    },
+    {
+      "id": "CTNNB1",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.9984
+    },
+    {
+      "id": "chr4:1806276_G>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9983,
+      "tipid": "0.9983 c.1979G>T"
+    },
+    {
+      "id": "ENST00000440486.8",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.9983
+    },
+    {
+      "id": "P22607",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.9983,
+      "tipid": "FGFR3"
+    },
+    {
+      "id": "FGFR3",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.9983
+    },
+    {
+      "id": "chr4:1806290_G>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.6584,
+      "tipid": "0.6584 c.1993G>T"
+    },
+    {
+      "id": "chr4:1806299_G>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9809,
+      "tipid": "0.9809 c.2002G>T"
+    },
+    {
+      "id": "chr6:156935479_A>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.8033,
+      "tipid": "0.8033 c.2150A>G"
+    },
+    {
+      "id": "chr7:129210500_G>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9897,
+      "tipid": "0.9897 c.1604G>T"
+    },
+    {
+      "id": "ENST00000249373.8",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.9897
+    },
+    {
+      "id": "Q99835",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.9897,
+      "tipid": "SMO"
+    },
+    {
+      "id": "SMO",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.9897
+    },
+    {
+      "id": "chr12:49030394_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.7303,
+      "tipid": "0.7303 c.13885A>C"
+    },
+    {
+      "id": "ENST00000301067.12",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.7303
+    },
+    {
+      "id": "O14686",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.7303,
+      "tipid": "KMT2D"
+    },
+    {
+      "id": "KMT2D",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.7303
+    },
+    {
+      "id": "chr12:49030394_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.7303,
+      "tipid": "0.7303 c.13885A>C"
+    },
+    {
+      "id": "chr16:2088275_C>A",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.5777,
+      "tipid": "0.5777 c.5209C>A"
+    },
+    {
+      "id": "chr16:3731397_A>C",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9313,
+      "tipid": "0.9313 c.4967T>G"
+    },
+    {
+      "id": "chr16:3731400_A>C",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.7221,
+      "tipid": "0.7221 c.4964T>G"
+    },
+    {
+      "id": "chr16:3731406_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9885,
+      "tipid": "0.9885 c.4958A>C"
+    },
+    {
+      "id": "chr16:3731412_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9674,
+      "tipid": "0.9674 c.4952A>C"
+    },
+    {
+      "id": "chr16:85654987_T>G",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.6177,
+      "tipid": "0.6177 c.793T>G"
+    },
+    {
+      "id": "chr17:60623728_G>A",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9929,
+      "tipid": "0.9929 c.680G>A"
+    },
+    {
+      "id": "ENST00000305921.8",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.9929
+    },
+    {
+      "id": "O15297",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.9929,
+      "tipid": "PPM1D"
+    },
+    {
+      "id": "PPM1D",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.9929
+    },
+    {
+      "id": "chr19:10996246_G>A",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.9896,
+      "tipid": "0.9896 c.1627G>A"
+    },
+    {
+      "id": "chrX:41344260_C>T",
+      "group": 4,
+      "effect": "likely_pathogenic",
+      "score": 0.5753,
+      "tipid": "0.5753 c.886C>T"
+    },
+    {
+      "id": "ENST00000644876.2",
+      "group": 2,
+      "effect": "likely_pathogenic",
+      "score": 0.5753
+    },
+    {
+      "id": "O00571",
+      "group": 1,
+      "effect": "likely_pathogenic",
+      "score": 0.5753,
+      "tipid": "DDX3X"
+    },
+    {
+      "id": "DDX3X",
+      "group": 3,
+      "effect": "likely_pathogenic",
+      "score": 0.5753
+    }
+  ],
+  "links": [
+    {
+      "source": "chr1:26697277_A>C",
+      "target": "ARID1A"
+    },
+    {
+      "source": "ARID1A",
+      "target": "ENST00000324856.13"
+    },
+    {
+      "source": "ENST00000324856.13",
+      "target": "O14497"
+    },
+    {
+      "source": "chr1:26697283_A>C",
+      "target": "ARID1A"
+    },
+    {
+      "source": "ARID1A",
+      "target": "ENST00000324856.13"
+    },
+    {
+      "source": "ENST00000324856.13",
+      "target": "O14497"
+    },
+    {
+      "source": "chr1:26697287_T>G",
+      "target": "ARID1A"
+    },
+    {
+      "source": "ARID1A",
+      "target": "ENST00000324856.13"
+    },
+    {
+      "source": "ENST00000324856.13",
+      "target": "O14497"
+    },
+    {
+      "source": "chr2:208248484_C>T",
+      "target": "IDH1"
+    },
+    {
+      "source": "IDH1",
+      "target": "ENST00000345146.7"
+    },
+    {
+      "source": "ENST00000345146.7",
+      "target": "O75874"
+    },
+    {
+      "source": "chr3:41233385_C>T",
+      "target": "CTNNB1"
+    },
+    {
+      "source": "CTNNB1",
+      "target": "ENST00000349496.11"
+    },
+    {
+      "source": "ENST00000349496.11",
+      "target": "P35222"
+    },
+    {
+      "source": "chr4:1806276_G>T",
+      "target": "FGFR3"
+    },
+    {
+      "source": "FGFR3",
+      "target": "ENST00000440486.8"
+    },
+    {
+      "source": "ENST00000440486.8",
+      "target": "P22607"
+    },
+    {
+      "source": "FGFR3",
+      "target": "ENST00000440486.8"
+    },
+    {
+      "source": "ENST00000440486.8",
+      "target": "P22607"
+    },
+    {
+      "source": "chr4:1806290_G>T",
+      "target": "FGFR3"
+    },
+    {
+      "source": "FGFR3",
+      "target": "ENST00000440486.8"
+    },
+    {
+      "source": "ENST00000440486.8",
+      "target": "P22607"
+    },
+    {
+      "source": "chr4:1806299_G>T",
+      "target": "FGFR3"
+    },
+    {
+      "source": "FGFR3",
+      "target": "ENST00000440486.8"
+    },
+    {
+      "source": "ENST00000440486.8",
+      "target": "P22607"
+    },
+    {
+      "source": "FGFR3",
+      "target": "ENST00000440486.8"
+    },
+    {
+      "source": "ENST00000440486.8",
+      "target": "P22607"
+    },
+    {
+      "source": "chr7:129210500_G>T",
+      "target": "SMO"
+    },
+    {
+      "source": "SMO",
+      "target": "ENST00000249373.8"
+    },
+    {
+      "source": "ENST00000249373.8",
+      "target": "Q99835"
+    },
+    {
+      "source": "chr12:49030394_T>G",
+      "target": "KMT2D"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "chr12:49030394_T>G",
+      "target": "KMT2D"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "KMT2D",
+      "target": "ENST00000301067.12"
+    },
+    {
+      "source": "ENST00000301067.12",
+      "target": "O14686"
+    },
+    {
+      "source": "chr17:60623728_G>A",
+      "target": "PPM1D"
+    },
+    {
+      "source": "PPM1D",
+      "target": "ENST00000305921.8"
+    },
+    {
+      "source": "ENST00000305921.8",
+      "target": "O15297"
+    },
+    {
+      "source": "chrX:41344260_C>T",
+      "target": "DDX3X"
+    },
+    {
+      "source": "DDX3X",
+      "target": "ENST00000644876.2"
+    },
+    {
+      "source": "ENST00000644876.2",
+      "target": "O00571"
+    }
+  ]
+}

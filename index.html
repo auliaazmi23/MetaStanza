@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Exploration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DNA Exploration towards Cancer Variant</h1>
+    </header>
+    <main>
+        <h1>DNA distribution among chromosomes</h1>
+        <script type="module" src="https://togostanza.github.io/metastanza-devel/barchart.js" async></script>
+
+        <togostanza-barchart
+            data-url="http://127.0.0.1:3000/bar_graph_data.json"
+            data-type="json"
+            data-interpretation="categorical"
+            data-bin-count="20"
+            axis-x-key="chromosome"
+            axis-x-placement="bottom"
+            axis-x-title="Category"
+            axis-x-title_padding="25"
+            axis-x-ticks_label_angle="-45"
+            axis-x-ticks_interval=""
+            axis-x-ticks_labels_format=",.2r"
+            axis-x-gridlines_interval=""
+            axis-y-key="count"
+            axis-y-placement="left"
+            axis-y-title="Data"
+            axis-y-title_padding="40"
+            axis-y-ticks_label_angle="0"
+            axis-y-ticks_interval=""
+            axis-y-ticks_labels_format=""
+            axis-y-gridlines_interval=""
+            group-key="category"
+            group-arrangement="stacked"
+            node-color_key="color"
+            errorbar-key="error"
+            tooltip="{{#if url}}&lt;a href&#x3D;{{url}}&gt;{{count}}&lt;/a&gt;{{else}}&lt;span&gt;{{count}}&lt;/span&gt;{{/if}}"
+            legend-visible
+            legend-title="Category"
+            event-incoming_change_selected_nodes
+            event-outgoing_change_selected_nodes
+            togostanza-custom_css_url=""
+        ></togostanza-barchart>
+
+        <h1>DNA distribution among chromosomes - Alphamissense</h1>
+        <script type="module" src="https://togostanza.github.io/metastanza-devel/barchart.js" async></script>
+
+        <togostanza-barchart
+            data-url="http://127.0.0.1:3000/bar_graph_alpha_data.json"
+            data-type="json"
+            data-interpretation="categorical"
+            data-bin-count="20"
+            axis-x-key="chromosome"
+            axis-x-placement="bottom"
+            axis-x-title="Category"
+            axis-x-title_padding="25"
+            axis-x-ticks_label_angle="-45"
+            axis-x-ticks_interval=""
+            axis-x-ticks_labels_format=",.2r"
+            axis-x-gridlines_interval=""
+            axis-y-key="count"
+            axis-y-placement="left"
+            axis-y-title="Data"
+            axis-y-title_padding="40"
+            axis-y-ticks_label_angle="0"
+            axis-y-ticks_interval=""
+            axis-y-ticks_labels_format=""
+            axis-y-gridlines_interval=""
+            group-key="category"
+            group-arrangement="stacked"
+            node-color_key="color"
+            errorbar-key="error"
+            tooltip="{{#if url}}&lt;a href&#x3D;{{url}}&gt;{{count}}&lt;/a&gt;{{else}}&lt;span&gt;{{count}}&lt;/span&gt;{{/if}}"
+            legend-visible
+            legend-title="Category"
+            event-incoming_change_selected_nodes
+            event-outgoing_change_selected_nodes
+            togostanza-custom_css_url=""
+        ></togostanza-barchart>
+
+        <h1>Proportion of Alphamissense Class Category</h1>
+        <script type="module" src="https://togostanza.github.io/metastanza-devel/piechart.js" async></script>
+
+        <togostanza-piechart
+            data-url="http://127.0.0.1:3000/effect_piechart.json"
+            data-type="json"
+            data-value_key="count"
+            data-category_key="category"
+            color-key="color"
+            group-key="group"
+            legend-visible
+            legend-title="Population"
+            tooltip="{{#if url}}&lt;a href&#x3D;{{url}}&gt;{{count}}&lt;/a&gt;{{else}}&lt;span&gt;{{count}}&lt;/span&gt;{{/if}}"
+            event-incoming_change_selected_nodes
+            event-outgoing_change_selected_nodes
+        ></togostanza-piechart>
+
+        <h1>Gene - Variant Class Scores Heatmap</h1>
+        <script type="module" src="https://togostanza.github.io/metastanza-devel/heatmap.js" async></script>
+
+        <style>
+            togostanza-heatmap {
+                --togostanza-canvas-width: 900;
+                --togostanza-canvas-height: 200;
+            }
+        </style>
+
+        <togostanza-heatmap
+            data-url="http://127.0.0.1:3000/gene_effect_heatmap.json"
+            data-type="json"
+            legend-title="value"
+            legend-levels_number="10"
+            axis-x-key="group"
+            axis-x-title=""
+            axis-x-title_padding="70"
+            axis-x-ticks_labels_angle="45"
+            axis-x-placement="bottom"
+            axis-y-key="variable"
+            axis-y-title=""
+            axis-y-title_padding="120"
+            axis-y-ticks_labels_angle="0"
+            axis-y-placement="left"
+            cell-color_key="value"
+            cell-color_min="#6590e6"
+            cell-color_mid="#ffffff"
+            cell-color_max="#F75976"
+            cell-value_min="0"
+            cell-value_mid="50"
+            cell-value_max="100"
+            tooltip="{{#if url}}&lt;a href&#x3D;{{url}}&gt;{{value}}&lt;/a&gt;{{else}}&lt;span&gt;{{value}}&lt;/span&gt;{{/if}}"
+            event-incoming_change_selected_nodes
+            event-outgoing_change_selected_nodes
+            togostanza-custom_css_url=""
+        ></togostanza-heatmap>
+
+        <script type="module" src="https://togostanza.github.io/metastanza/scroll-table.js" async></script>
+
+        <h1>Gene - Variant Table</h1>
+        <togostanza-scroll-table
+        data-url="http://127.0.0.1:3000/gene_variant_table.json"
+        data-type="json"
+        custom-css-url=""
+        width=""
+        height="400"
+        fixed-columns="1"
+        padding="0"
+        page-size="10"
+        columns="[   {&quot;id&quot;: &quot;id&quot;, &quot;label&quot;: &quot;Gene Symbol&quot;},   {&quot;id&quot;: &quot;group&quot;, &quot;label&quot;: &quot;Group&quot;},   {&quot;id&quot;: &quot;effect&quot;, &quot;label&quot;: &quot;Effect&quot;},   {&quot;id&quot;: &quot;score&quot;, &quot;label&quot;: &quot;Score&quot;, &quot;type&quot;: &quot;number&quot;},   {&quot;id&quot;: &quot;variant&quot;, &quot;label&quot;: &quot;Variant&quot;}, {&quot;id&quot;: &quot;variant&quot;, &quot;label&quot;: &quot;Variant&quot;} ]"
+        ></togostanza-scroll-table>
+
+
+        <h1>Layerd Graph</h1>
+        <a href="http://127.0.0.1:3000/index_layered_graph.html" target="_blank">Open Layered Graph</a>
+
+    </main>   
+    
+</body>
+</html>

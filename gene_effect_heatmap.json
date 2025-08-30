@@ -1,0 +1,212 @@
+[
+  {
+    "group": "ARID1A",
+    "variable": "likely_pathogenic",
+    "value": 62.38
+  },
+  {
+    "group": "PTCH2",
+    "variable": "likely_benign",
+    "value": 10.040000000000001
+  },
+  {
+    "group": "MSH6",
+    "variable": "likely_benign",
+    "value": 32.95
+  },
+  {
+    "group": "IDH1",
+    "variable": "likely_pathogenic",
+    "value": 98.05
+  },
+  {
+    "group": "D2HGDH",
+    "variable": "likely_benign",
+    "value": 7.340000000000001
+  },
+  {
+    "group": "CTNNB1",
+    "variable": "likely_pathogenic",
+    "value": 99.83999999999999
+  },
+  {
+    "group": "FGFR3",
+    "variable": "likely_pathogenic",
+    "value": 99.83
+  },
+  {
+    "group": "HTT",
+    "variable": "likely_benign",
+    "value": 7.720000000000001
+  },
+  {
+    "group": "PDGFRA",
+    "variable": "likely_benign",
+    "value": 5.92
+  },
+  {
+    "group": "MCC",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "BRPF3",
+    "variable": "likely_benign",
+    "value": 6.18
+  },
+  {
+    "group": "ARID1B",
+    "variable": "ambiguous",
+    "value": 48.8
+  },
+  {
+    "group": "MET",
+    "variable": "likely_benign",
+    "value": 7.59
+  },
+  {
+    "group": "SMO",
+    "variable": "likely_pathogenic",
+    "value": 98.97
+  },
+  {
+    "group": "MYC",
+    "variable": "likely_benign",
+    "value": 7.17
+  },
+  {
+    "group": "LURAP1L",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "NTRK2",
+    "variable": "likely_benign",
+    "value": 11.450000000000001
+  },
+  {
+    "group": "PTCH1",
+    "variable": "likely_benign",
+    "value": 12.740000000000002
+  },
+  {
+    "group": "KLF4",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "TSC1",
+    "variable": "likely_benign",
+    "value": 13.089999999999998
+  },
+  {
+    "group": "NOTCH1",
+    "variable": "likely_benign",
+    "value": 29.770000000000003
+  },
+  {
+    "group": "FGFR2",
+    "variable": "ambiguous",
+    "value": 47.08
+  },
+  {
+    "group": "ZFTA",
+    "variable": "likely_benign",
+    "value": 12.17
+  },
+  {
+    "group": "KMT2D",
+    "variable": "likely_pathogenic",
+    "value": 73.03
+  },
+  {
+    "group": "SMARCD1",
+    "variable": "ambiguous",
+    "value": 39.290000000000006
+  },
+  {
+    "group": "PHLDA1",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "ATXN2",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "HNF1A",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "BRCA2",
+    "variable": "likely_benign",
+    "value": 6.260000000000001
+  },
+  {
+    "group": "RB1",
+    "variable": "likely_benign",
+    "value": 7.68
+  },
+  {
+    "group": "DICER1",
+    "variable": "likely_benign",
+    "value": 11.16
+  },
+  {
+    "group": "TSC2",
+    "variable": "likely_benign",
+    "value": 7.9399999999999995
+  },
+  {
+    "group": "CREBBP",
+    "variable": "ambiguous",
+    "value": 39.97
+  },
+  {
+    "group": "GSE1",
+    "variable": "unknown",
+    "value": 50.0
+  },
+  {
+    "group": "TP53",
+    "variable": "likely_benign",
+    "value": 7.24
+  },
+  {
+    "group": "NF1",
+    "variable": "likely_benign",
+    "value": 11.12
+  },
+  {
+    "group": "PPM1D",
+    "variable": "likely_pathogenic",
+    "value": 99.29
+  },
+  {
+    "group": "SMARCA4",
+    "variable": "likely_benign",
+    "value": 7.7
+  },
+  {
+    "group": "NOTCH3",
+    "variable": "likely_benign",
+    "value": 17.919999999999998
+  },
+  {
+    "group": "LZTR1",
+    "variable": "ambiguous",
+    "value": 41.07
+  },
+  {
+    "group": "DDX3X",
+    "variable": "likely_pathogenic",
+    "value": 57.53
+  },
+  {
+    "group": "ATRX",
+    "variable": "likely_benign",
+    "value": 27.3
+  }
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Exploration 2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DNA Exploration - Layered Graph</h1>
+    </header>
+    <main>
+      <!-- <script type="module" src="dist/layered-graph.js" async></script> -->
+        <label for="effectFilter">Filter by Effect:</label>
+        <select id="effectFilter">
+            <option value="all">All</option>
+            <option value="likely_pathogenic">Likely Pathogenic</option>
+            <option value="likely_benign">Likely Benign</option>
+            <option value="ambiguous">Ambiguous</option>
+            <option value="unknown">Unknown</option>
+        </select>
+
+      <togostanza-layered-graph
+        id="filtered-graph"
+        data-url="http://127.0.0.1:3000/sample_variants.vcf.gz.json"
+        data-type="json"
+        node-label_key="id"
+        nodes-sort-key="id"
+        nodes-sort-order="ascending"
+        node-size-key="score"
+        node-size-min="3"
+        node-size-max="6"
+        node-size-scale="linear"
+        node-alpha-key="score"
+        node-alpha-min="1"
+        node-alpha-max="1"
+        node-alpha-scale="linear"
+        node-color-key="group"
+        edge-width-key="score"
+        edge-width-min="1"
+        edge-width-max="1"
+        edge-width-scale="linear"
+        tooltips-key="id"
+        tooltips-html="true"
+      ></togostanza-layered-graph>
+    </main>
+    <script type="module" src="layered-graph-handler.js"></script>    
+</body>
+</html>
